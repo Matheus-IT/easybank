@@ -18,3 +18,5 @@ node_modules/*
 
 # ignore the style guide
 style-guide.md
+
+package-lock.json
